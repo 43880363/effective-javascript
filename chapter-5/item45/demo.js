@@ -19,7 +19,7 @@ Dict.prototype.has = function(key) {
     return Object.hasOwnProperty.call(this.elements, key);
 };
 Dict.prototype.get = function(key) {
-    return this.elements.has(key) ? this.elements[key] : undefined;
+    return this.has(key) ? this.elements[key] : undefined;
 };
 Dict.prototype.set = function(key, value) {
     this.elements[key] = value;
