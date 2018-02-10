@@ -79,7 +79,7 @@
     - [x] [item 65: **不要在计算时阻塞事件队列** (Don’t Block the Event Queue on Computation)](chapter-7/do-not-block-the-event-queue-on-computation.md) 
     - [x] [item 66: **使用计数器来执行并行操作** (Use a Counter to Perform Concurrent Operations)](chapter-7/use-a-counter-to-perform-concurrent-operations.md) 
     - [x] [item 67: **绝不要同步地调用异步的回调函数** (Never Call Asynchronous Callbacks Synchronously)](chapter-7/never-call-asynchronous-callbacks-synchronously.md) 
-    - [x] [item 68: **(非常值得自己实践)使用`promise`模式清洁异步逻辑** (Use Promises for Cleaner Asynchronous Logic)](chapter-7/) 
+    - [x] [item 68: **(非常值得自己实践)使用`promise`模式清洁异步逻辑** (Use Promises for Cleaner Asynchronous Logic)](chapter-7/use-promises-for-cleaner-asynchronous-logic.md) 
        
 ------
 
